@@ -1,6 +1,6 @@
 # Coffee-Bean-Sales-Analysis
 
-The scoffee bean sales data spanning four years provides a comprehensive insight into the coffee industry, encompassing sales figures, customer demographics, and product details. This dataset serves as a valuable resource for understanding consumer behavior, refining product offerings, and enhancing business strategies within the coffee market.
+The coffee bean sales data spanning four years provides a comprehensive insight into the coffee industry, encompassing sales figures, customer demographics, and product details. This dataset serves as a valuable resource for understanding consumer behavior, refining product offerings, and enhancing business strategies within the coffee market.
 
 # Data Dictionary:
 
